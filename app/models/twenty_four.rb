@@ -1,0 +1,2 @@
+class TwentyFour < ApplicationRecord
+end
